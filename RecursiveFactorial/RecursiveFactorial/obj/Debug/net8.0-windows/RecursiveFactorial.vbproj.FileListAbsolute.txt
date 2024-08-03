@@ -1,0 +1,6 @@
+C:\Users\marvi\source\repos\RecursiveFactorial\RecursiveFactorial\obj\Debug\net8.0-windows\RecursiveFactorial.FactorialCalculator.resources
+C:\Users\marvi\source\repos\RecursiveFactorial\RecursiveFactorial\obj\Debug\net8.0-windows\RecursiveFactorial.vbproj.GenerateResource.cache
+C:\Users\marvi\source\repos\RecursiveFactorial\RecursiveFactorial\obj\Debug\net8.0-windows\RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\source\repos\RecursiveFactorial\RecursiveFactorial\obj\Debug\net8.0-windows\RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\RecursiveFactorial\RecursiveFactorial\obj\Debug\net8.0-windows\RecursiveFactorial.AssemblyInfo.vb
+C:\Users\marvi\source\repos\RecursiveFactorial\RecursiveFactorial\obj\Debug\net8.0-windows\RecursiveFactorial.vbproj.CoreCompileInputs.cache
